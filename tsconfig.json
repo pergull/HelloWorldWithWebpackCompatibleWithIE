@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true
+    },
+    "files": [
+        "src/HelloWorld/HelloWorld.ts",
+        "src/HelloWorld/DisplayHelloWorld.ts"
+    ]
+}
